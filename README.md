@@ -1,10 +1,10 @@
 # Homework 10.3
 
-Задание 1
+## Задание 1
 
 ![1](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw10.3/main/assets/1031.png)
 
-Задание 2 и 3
+## Задание 2 и 3
 
 LA 1/5/15  
 ```
@@ -26,3 +26,5 @@ node_filesystem_avail_bytes{fstype!~"tmpfs|fuse.lxcfs|squashfs"} / node_filesyst
 ```
 ![2](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw10.3/main/assets/1032.png)
 
+## Задание 4
+Для удобства ссылка листнинг файла [Dashboard.json](https://github.com/Evgeniy-Nikolskiy/hw10.3/blob/main/dashboard.json)
